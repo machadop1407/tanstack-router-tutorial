@@ -1,11 +1,3 @@
----
-title: "Getting Started with TanStack Router: A Step-by-Step Tutorial"
-slug: getting-started-with-tanstack-router
-description: "A comprehensive guide to setting up and using TanStack Router in React applications, covering file-based routing, code-based configuration, and more."
-date: 2024-12-25
-image: tanstack-router-tutorial.webp
----
-
 ## Getting Started with TanStack Router: A Step-by-Step Tutorial
 
 Welcome to this comprehensive guide on **TanStack Router**, a powerful and flexible routing library for React applications. Whether you're a beginner looking to understand the basics or an experienced developer aiming to enhance your routing strategy, this tutorial will walk you through setting up TanStack Router using both file-based and code-based configurations. We'll cover project scaffolding, manual setup, creating routes, lazy loading, integrating with Vite, and much more. By the end of this tutorial, you'll have a solid foundation to implement TanStack Router in your React projects effectively.
